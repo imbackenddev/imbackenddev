@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imbackenddev
 
-twitter : https://twitter.com/backenddev
+- twitter : https://twitter.com/backenddev
 
-discord : bach#3012
+- discord : bach#3012
