@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imbackenddev
+- 👋 Hi, I’m backenddev
 
 - twitter : https://twitter.com/backenddev
 
