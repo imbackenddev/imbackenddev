@@ -1,4 +1,4 @@
-- 👋 Hi, I’m backenddev
+- 👋 Hi, I’m Andy
 
 - twitter : https://twitter.com/backenddev
 
